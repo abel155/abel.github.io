@@ -1,0 +1,25 @@
+body{padding: 20%;
+  padding-top: 0%;
+  margin: 0%;
+  font-family: center Gothic;
+  background-position: center;
+  background-size:cover ;
+  background-color: blue;
+}
+
+
+
+ul{ float: right;
+list-style: none;
+margin-top: 5px;
+
+  }
+ul li{ display: inline-block;
+}
+ul li a{color:#fff ;
+padding: 0px;
+border: 5px solid transparent ;
+text-decoration:none ;
+}
+ul li a:hovee{ background-color:#fff;
+color: #000;}
